@@ -1,0 +1,4 @@
+
+
+    window.silex = window.silex || {}
+    window.silex.data = {"site":{"width":1200},"pages":[{"id":"page-landing-uc11","displayName":"Landing UC11","link":{"linkType":"LinkTypePage","href":"#!page-landing-uc11"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-volumepermaand","displayName":"volumepermaand","link":{"linkType":"LinkTypePage","href":"#!page-volumepermaand"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false},{"id":"page-volumeperminuutuur","displayName":"volumeperminuutuur","link":{"linkType":"LinkTypePage","href":"#!page-volumeperminuutuur"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false}]}
